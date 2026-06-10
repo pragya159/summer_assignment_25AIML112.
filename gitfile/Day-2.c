@@ -1,4 +1,3 @@
-Day-2
 
 
 " 1-Sum of digits of a number "
