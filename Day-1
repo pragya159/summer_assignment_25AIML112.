@@ -1,6 +1,4 @@
-"que 1"
-#include<stdio.h>
-int main() {
+in() {
     int n, sum = 0;
     printf("Enter a number: ");
     scanf("%d", &n);
