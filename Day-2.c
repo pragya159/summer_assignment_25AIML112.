@@ -1,4 +1,7 @@
-"1. Sum of digits of a number"
+
+
+" 1-Sum of digits of a number "
+
 
 #include<stdio.h>
 int main() {
@@ -14,25 +17,26 @@ int main() {
     return 0;
 }
 
+
 "2. Reverse a number"
 
 #include<stdio.h>
 int main() {
-    int n, reverse = 0;
+    int n, rev = 0;
     printf("Enter a number: ");
     scanf("%d", &n);
     
     while(n != 0) {
-        reverse = reverse * 10 + n % 10;
+        rev = rev * 10 + n % 10;
         n /= 10;
     }
-    printf("Reverse = %d\n", reverse);
+    printf("Reversed number = %d\n", rev);
     return 0;
 }
 
 
-
 "3. Product of digits"
+
 
 #include<stdio.h>
 int main() {
@@ -49,8 +53,7 @@ int main() {
 }
 
 
-
-"4. Check if a number is palindrome"
+"4. Check whether a number is Palindrome"
 
 #include<stdio.h>
 int main() {
