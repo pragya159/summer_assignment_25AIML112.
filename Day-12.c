@@ -1,5 +1,5 @@
-
-Q1 Write a program to Write function for palindrome.
+﻿
+// Q1 Write a program to Write function for palindrome.
 #include <stdio.h>
 
 int isPalindrome(int n) {
@@ -32,7 +32,7 @@ int main() {
 
 
 
-Q2 Write a program to Write function for Armstrong
+// Q2 Write a program to Write function for Armstrong
 #include <stdio.h>
 
 int isArmstrong(int n) {
@@ -63,7 +63,7 @@ int main() {
 
 
 
-Q3 Write a program to Write function for Fibonacci.
+// Q3 Write a program to Write function for Fibonacci.
 #include <stdio.h>
 
 void printFibonacci(int terms) {
@@ -87,7 +87,7 @@ int main() {
 
 
 
-Q4 Write a program to Write function for perfect number
+// Q4 Write a program to Write function for perfect number
 #include <stdio.h>
 
 int isPerfect(int n) {
@@ -114,4 +114,6 @@ int main() {
     }
     return 0;
 }
+
+
 

@@ -1,4 +1,4 @@
-Q1 Write a program to Input and display array
+﻿// Q1 Write a program to Input and display array
 #include <stdio.h>
 
 int main() {
@@ -18,7 +18,7 @@ int main() {
 
 
 
-Q2 Write a program to Find sum and average of array
+// Q2 Write a program to Find sum and average of array
 #include <stdio.h>
 
 int main() {
@@ -37,7 +37,7 @@ int main() {
 
 
 
-Q3 Write a program to Find largest and smallest element.
+// Q3 Write a program to Find largest and smallest element.
 #include <stdio.h>
 
 int main() {
@@ -61,7 +61,7 @@ int main() {
 
 
 
-Q4 Write a program to Count even and odd elements
+// Q4 Write a program to Count even and odd elements
 #include <stdio.h>
 
 int main() {

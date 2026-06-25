@@ -76,8 +76,8 @@ int main() {
 
 
 Q4 Write a program to Print character pyramid.
-      A
-   ABA
+    A
+  ABA
   ABCBA
  ABCDCBA
 ABCDEDCBA

@@ -1,4 +1,4 @@
-Q1 Write a program to Linear search.
+﻿// Q1 Write a program to Linear search.
 #include <stdio.h>
 
 int main() {
@@ -22,7 +22,7 @@ int main() {
 
 
 
-Q2 Write a program to Frequency of an element.	
+// Q2 Write a program to Frequency of an element.	
 #include <stdio.h>
 
 int main() {
@@ -41,7 +41,7 @@ int main() {
 
 
 
-Q3 Write a program to Second largest element.	
+// Q3 Write a program to Second largest element.	
 #include <stdio.h>
 
 int main() {
@@ -63,7 +63,7 @@ int main() {
 
 
 
-Q4 Write a program to Find duplicates in array.
+// Q4 Write a program to Find duplicates in array.
 #include <stdio.h>
 
 int main() {

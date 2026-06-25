@@ -1,5 +1,5 @@
 
-Q1 Write a program to Write function to find sum of two numbers
+// Q1 Write a program to Write function to find sum of two numbers
 
 #include <stdio.h>
 
@@ -14,7 +14,13 @@ int main() {
     return 0;
 }
 
-Q2 Write a program to Write function to find maximum
+
+
+
+
+
+
+// Q2 Write a program to Write function to find maximum
 
 #include <stdio.h>
 
@@ -34,7 +40,7 @@ int main() {
 }
 
 
-Q3 Write a program to Write function to check prime.
+// Q3 Write a program to Write function to check prime.
 
 #include <stdio.h>
 
@@ -62,7 +68,7 @@ int main() {
 }
 
 
-Q4 Write a program to Write function to find factorial.
+// Q4 Write a program to Write function to find factorial.
 
 #include <stdio.h>
 

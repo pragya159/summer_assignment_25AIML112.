@@ -1,4 +1,4 @@
-Q1 Write a program to Reverse array.
+﻿// Q1 Write a program to Reverse array.
 #include <stdio.h>
 
 int main() {
@@ -24,7 +24,7 @@ int main() {
 
 
 
-Q2 Write a program to Rotate array left.
+// Q2 Write a program to Rotate array left.
 
 #include <stdio.h>
 
@@ -46,7 +46,7 @@ int main() {
 
 
 
-Q3 Write a program to Rotate array right.
+// Q3 Write a program to Rotate array right.
 #include <stdio.h>
 
 int main() {
@@ -66,7 +66,7 @@ int main() {
 }
 
 
-Q4 Write a program to Move zeroes to end.
+// Q4 Write a program to Move zeroes to end.
 #include <stdio.h>
 
 int main() {
