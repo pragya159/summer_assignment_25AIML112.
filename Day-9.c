@@ -1,10 +1,12 @@
 
-Q1	Write a program to Print reverse star pattern.
+/*
+1 Write a program to print the reverse star pattern.
 *****
 ****
 ***
 **
 *	
+*/
 #include <stdio.h>
 
 int main() {
@@ -20,7 +22,8 @@ int main() {
 
 
 
-Q2 Write a program to Print reverse number triangle.
+/*
+2 Write a program to print the reverse number triangle.
 12345
 
 1234
@@ -30,6 +33,7 @@ Q2 Write a program to Print reverse number triangle.
 12
 
 1
+*/
 
 #include <stdio.h>
 
@@ -46,13 +50,15 @@ int main() {
 
 
 
-Q3 Write a program to Print repeated character pattern.
+/*
+3 Write a program to print the repeated character pattern.
 
 A
 BB
 CCC
 DDDD
 EEEEE
+*/
 
 #include <stdio.h>
 
@@ -70,7 +76,8 @@ int main() {
 }
 
 
-Q4 Write a program to Print hollow square pattern.
+/*
+4 Write a program to print a hollow square pattern.
 
 *****
 
@@ -80,7 +87,8 @@ Q4 Write a program to Print hollow square pattern.
 
 *   *
 
-*****
+***** 
+*/
 
 #include <stdio.h>
 

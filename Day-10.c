@@ -1,10 +1,12 @@
-
-Q1 Write a program to Print star pyramid.
+/*
+Q1 Write a program to print a star pyramid.
     *
    ***
   *****
  *******
 *********
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -22,12 +24,15 @@ int main() {
 }
 
 
-Q2 Write a program to Print reverse pyramid.
+
+/*
+Q2 Write a program to print a reverse pyramid.
 *********
  *******
   *****
    ***
     *
+*/
 
 #include <stdio.h>
 
@@ -46,13 +51,14 @@ int main() {
 }
 
 
-
-Q3 Write a program to Print number pyramid.
+/*
+Q3 Write a program to print a number pyramid.
     1
    121
   12321
  1234321
 123454321
+*/
 
 #include <stdio.h>
 
@@ -74,13 +80,14 @@ int main() {
 }
 
 
-
-Q4 Write a program to Print character pyramid.
+/*
+Q4 Write a program to print a character pyramid.
     A
-  ABA
+   ABA
   ABCBA
  ABCDCBA
 ABCDEDCBA
+*/
 
 #include <stdio.h>
 
